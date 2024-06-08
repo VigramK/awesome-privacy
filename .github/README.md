@@ -5602,6 +5602,13 @@ This project exists thanks to all the people who've helped build and maintain it
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/edent">
+            <img src="https://avatars.githubusercontent.com/u/837136?v=4" width="80;" alt="edent"/>
+            <br />
+            <sub><b>Terence Eden</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/tschlotfeldt">
             <img src="https://avatars.githubusercontent.com/u/149240?v=4" width="80;" alt="tschlotfeldt"/>
             <br />
@@ -5613,13 +5620,6 @@ This project exists thanks to all the people who've helped build and maintain it
             <img src="https://avatars.githubusercontent.com/u/92091338?v=4" width="80;" alt="spignelon"/>
             <br />
             <sub><b>Ujjawal Saini</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Upstream8022">
-            <img src="https://avatars.githubusercontent.com/u/105393306?v=4" width="80;" alt="Upstream8022"/>
-            <br />
-            <sub><b>Upstream8022</b></sub>
         </a>
     </td></tr>
 <tr>
